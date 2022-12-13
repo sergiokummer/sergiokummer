@@ -4,5 +4,5 @@
 
 ## I'm a Full Stack Developer
 
-- 👨‍💻 I develop my projects using rails.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💻 I develop my projects using rails.
+- ♾️ Future Goals: Learn more technologies - Never stop creating new ideas.
